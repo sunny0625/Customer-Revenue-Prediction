@@ -1,0 +1,10 @@
+This is Our IT project on Deep Learing....
+Let's Do This....!
+
+Things required to build this project
+
+1. Data Set
+2. Anaconda (Offline Use)
+3. Tensorflow
+
+nd many more...!
