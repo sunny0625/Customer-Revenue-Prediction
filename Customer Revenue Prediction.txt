@@ -1,6 +1,9 @@
 This is Our IT project on Deep Learing....
 Let's Do This....!
 
+Important Video Link:
+https://youtu.be/5X_hmuvRwDo?si=CsKGZG-2yQwoNimh
+
 Things required to build this project
 
 1. Data Set
